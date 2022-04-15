@@ -1,5 +1,4 @@
 from django.db import models
-
 from titcatgen.models import Title
 from users.models import User
 
