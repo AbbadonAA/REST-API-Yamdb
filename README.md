@@ -1,8 +1,6 @@
 # REST API Yamdb
 
-![PEP8 and pytest](https://github.com/AbbadonAA/yamdb_final/workflows/Yamdb_workflow/badge.svg?event=tests)
-
-![Project](https://github.com/AbbadonAA/yamdb_final/workflows/Yamdb_workflow/badge.svg)
+![Yamdb_workflow](https://github.com/AbbadonAA/yamdb_final/workflows/Yamdb_workflow/badge.svg)
 
 ## Описание
 
