@@ -1,6 +1,6 @@
 # REST API Yamdb
 
-![Yamdb workflow](https://github.com/AbbadonAA/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+![Yamdb workflow](https://github.com/AbbadonAA/yamdb_final/actions/workflows/Yamdb_workflow/badge.svg)
 
 ## Описание
 
