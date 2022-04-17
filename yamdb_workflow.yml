@@ -49,6 +49,10 @@ jobs:
     name: Deploy YCloud
     runs-on: ubuntu-latest
     needs: build_and_push
+    if:
+      contains(
+        'refs/heads/master',
+        github.ref)
     steps:
     - name: executing remote ssh commands to deploy
       uses: appleboy/ssh-action@master
